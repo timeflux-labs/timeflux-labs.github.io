@@ -22,8 +22,9 @@ StorySeek 是一款专为网络小说作者打造的 AI 辅助创作平台，提
 
 ## 界面预览
 
-> ![5dc2a847cad57d804bcda1b58e8a5bb](https://github.com/user-attachments/assets/f2e2c820-e8f6-437f-807f-5433f42aedc1)
-![7fed681a91c2e93dba7f90ebf74a993](https://github.com/user-attachments/assets/f6e6950b-bf1c-4a6e-82b0-fba6b31d9b14)
+> ![491f620895e1d90e73bb17645ca6679](https://github.com/user-attachments/assets/c4cc23e7-630a-47a6-82d3-383523591c34)
+![5240dc144aac1bdac1b71478c7b72fc](https://github.com/user-attachments/assets/18bd4ade-56a3-48e4-b576-16d43ae3287a)
+
 
 ---
 
